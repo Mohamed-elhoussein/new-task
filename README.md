@@ -21,9 +21,6 @@
 1. استنساخ المستودع.
 2. تشغيل `composer install` لتثبيت التبعيات.
 3. انسخ `.env.example` إلى `.env` وقم بإعداد إعدادات قاعدة البيانات.
-4. composer require laravel/ui
-5. php artisan ui bootstrap --auth
-6. npm install && npm run dev   يشترط node v 20
 7. تشغيل `php artisan migrate` لإعداد قاعدة البيانات.
 8. تشغيل `php artisan serve` لتشغيل التطبيق.
 
