@@ -10,7 +10,7 @@
 
 1. استنساخ المشروع:
    ```bash
-   git clone https://github.com/your-repo/task-management-app.git
+   git clone https://github.com/Mohamed-elhoussein/new-task.git
    cd task-management-app
 
 
